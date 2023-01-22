@@ -1,0 +1,13 @@
+D:\Visual Studio 2015 Repository\Projects\ConverterProgramKJO\ConverterProgramKJO\bin\Debug\ConverterProgramKJO.exe.config
+D:\Visual Studio 2015 Repository\Projects\ConverterProgramKJO\ConverterProgramKJO\bin\Debug\ConverterProgramKJO.exe
+D:\Visual Studio 2015 Repository\Projects\ConverterProgramKJO\ConverterProgramKJO\bin\Debug\ConverterProgramKJO.pdb
+D:\Visual Studio 2015 Repository\Projects\ConverterProgramKJO\ConverterProgramKJO\obj\Debug\ConverterProgramKJO.csprojResolveAssemblyReference.cache
+D:\Visual Studio 2015 Repository\Projects\ConverterProgramKJO\ConverterProgramKJO\obj\Debug\ConverterProgramKJO.exe
+D:\Visual Studio 2015 Repository\Projects\ConverterProgramKJO\ConverterProgramKJO\obj\Debug\ConverterProgramKJO.pdb
+C:\Users\gogoo\source\repos\ConverterProgramKJO\ConverterProgramKJO\bin\Debug\ConverterProgramKJO.exe.config
+C:\Users\gogoo\source\repos\ConverterProgramKJO\ConverterProgramKJO\bin\Debug\ConverterProgramKJO.exe
+C:\Users\gogoo\source\repos\ConverterProgramKJO\ConverterProgramKJO\bin\Debug\ConverterProgramKJO.pdb
+C:\Users\gogoo\source\repos\ConverterProgramKJO\ConverterProgramKJO\obj\Debug\ConverterProgramKJO.csproj.AssemblyReference.cache
+C:\Users\gogoo\source\repos\ConverterProgramKJO\ConverterProgramKJO\obj\Debug\ConverterProgramKJO.csproj.CoreCompileInputs.cache
+C:\Users\gogoo\source\repos\ConverterProgramKJO\ConverterProgramKJO\obj\Debug\ConverterProgramKJO.exe
+C:\Users\gogoo\source\repos\ConverterProgramKJO\ConverterProgramKJO\obj\Debug\ConverterProgramKJO.pdb
