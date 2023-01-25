@@ -1,0 +1,1 @@
+Kommentar im XML funktioniert.
